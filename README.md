@@ -6,19 +6,6 @@ I love unique challenges and working on projects that are truly impacting users 
 I have startup experience and am very proud to make a few impacts that helped a couple of startups land deals and progress through their series of funding.
 In terms of skills/experience accumulated over a decade, my main skills are React / Vue / AngularJS / Angular. And I am very strong at Node.js, Python, Ruby, Golang, Rust as well as a more traditional language like PHP. I also have taken a deep dive into the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
 
-<h1 align="center">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-  <a href="https://join.skype.com/invite/BEufB8fsn5Fe">
-    <img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/>
-  </a>
-</h1>
-<!-- 
-<p align="center">
-  <img align="center" src="https://github.com/poseidon731/poseidon731/blob/main/banner.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>
-<br/>   -->
-
 ## 𝑺𝒌𝒊𝒍𝒍 𝑺𝒆𝒕 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
