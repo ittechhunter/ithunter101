@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ithunter101
 
 ## 𝑮𝒍𝒂𝒅 𝒕𝒐 𝒔𝒆𝒆 𝒚𝒐𝒖 𝒉𝒆𝒓𝒆!  
-I am a 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧. Over the last 10 years, I've taken a deep dive into website development.
+I am a 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧 & **_Blockchain developer_**. Over the last 10 years, I've taken a deep dive into website development.
 I love unique challenges and working on projects that are truly impacting users positively! Also, I love working with teams (but can work independently) and in a company with a great culture. Does your company/team appreciate clean, lean, and scalable solutions? Values TDD? If yes, kindly reach out!
 I have startup experience and am very proud to make a few impacts that helped a couple of startups land deals and progress through their series of funding.
 In terms of skills/experience accumulated over a decade, my main skills are React / Vue / AngularJS / Angular. And I am very strong at Node.js, Python, Ruby, Golang, Rust as well as a more traditional language like PHP. I also have taken a deep dive into the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
