@@ -58,4 +58,7 @@ In terms of skills/experience accumulated over a decade, my main skills are Reac
 ithunter101/ithunter101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+##
+[![trophy](https://github-profile-trophy.vercel.app/?username=ithunter101)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ithunter101&show_icons=true&count_private=true)  
 ![Profile views](https://gpvc.arturio.dev/ithunter101)
