@@ -4,7 +4,7 @@
 I am a 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧 & **_Blockchain developer_**. Over the last 10 years, I've taken a deep dive into website development.
 I love unique challenges and working on projects that are truly impacting users positively! Also, I love working with teams (but can work independently) and in a company with a great culture. Does your company/team appreciate clean, lean, and scalable solutions? Values TDD? If yes, kindly reach out!
 I have startup experience and am very proud to make a few impacts that helped a couple of startups land deals and progress through their series of funding.
-In terms of skills/experience accumulated over a decade, my main skills are React / Vue / AngularJS / Angular. And I am very strong at Node.js, Python, Ruby, Golang, Rust as well as a more traditional language like PHP. I also have taken a deep dive into the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
+In terms of skills/experience accumulated over a decade, my main skills are React / Vue / AngularJS / Angular. And I am very strong at Node.js, Python, Ruby, Golang, Rust, Dart, Kotlin, Flutter as well as a more traditional language like PHP. I also have taken a deep dive into the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
 
 ## 𝑺𝒌𝒊𝒍𝒍 𝑺𝒆𝒕 
 <div align="center">  
@@ -50,6 +50,9 @@ In terms of skills/experience accumulated over a decade, my main skills are Reac
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50">
 </div>  
 
 <br/>  
@@ -60,5 +63,5 @@ You can click the Preview link to take a look at your changes.
 --->
 ##
 [![trophy](https://github-profile-trophy.vercel.app/?username=ithunter101)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ithunter101&show_icons=true&count_private=true)  
+
 ![Profile views](https://gpvc.arturio.dev/ithunter101)
