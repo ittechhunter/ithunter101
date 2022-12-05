@@ -70,6 +70,6 @@ ithunter101/ithunter101 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ##
-[![trophy](https://github-profile-trophy.vercel.app/?username=ithunter101&rank=-C,-B,-0)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile views](https://gpvc.arturio.dev/ithunter101)
