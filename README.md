@@ -4,7 +4,7 @@
 
 ## Core Skills
 
-- 🔭 <b>Frontend</b> : React.js, Next.js, Gatsby.js
+- 🔭 <b>Frontend</b> : React.js, Next.js, Gatsby.js, Retool
 - 👨‍💻 <b>Backend</b> : PHP / Laravel, Node.js / Express, Python / Django, Flask
 - 🌱 <b>Blockchain</b> : Smart Contract, Web3, NFT, Metaverse
 - 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB
