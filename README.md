@@ -6,9 +6,9 @@
 
 - 🔭 <b>Frontend</b> : React.js, Next.js, Gatsby.js
 - 👨‍💻 <b>Backend</b> : PHP / Laravel, Node.js / Express, Python / Django, Flask
-- 🌱 <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD, RSuite
+- 🌱 <b>Blockchain</b> : Smart Contract, Web3, NFT, Metaverse
 - 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB
-- 📫 <b>Languages</b> : JavaScript, TypeScript, CSS/SCSS/LESS, PHP, Python
+- 📫 <b>AI</b> : OpenAI, LangChain, LLM
 
 ## Languages & Tools
 
